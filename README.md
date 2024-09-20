@@ -3,8 +3,8 @@
 ## GROUP <add-group-name>
 
 - Member 1: Tran-Thi-Huong-Ly
-- Member 2: <Nguyen-Tra-My>
-- Member 3: <Pham-Quoc-Viet>
+- Member 2: Nguyen-Tra-My
+- Member 3: Pham-Quoc-Viet
 - Member 4: <add-name>
 
 ## Starting server
